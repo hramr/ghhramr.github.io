@@ -1,0 +1,46 @@
+PGP-Putki Oy verkkosivuremontti
+
+1. Yleistä
+
+Sisällönhallintaohjelmiston (Wordpress) asentaminen
+- google analytics -tilin asennus
+- sivuston suunnittelu 
+	- yksikielinen sivusto (optiona kieliversiointi)
+	- responsiivinen (mukautuu päätelaitteeseen)
+	- moderni ja visuaalinen ulkoasu
+
+2. Sivuston rakenne 
+	- joko monisivuinen 
+	- tai ns 'one pager'(kaikki sisältö yhdellä sivulla eli alasivuja ei tarvittaisi)
+
+Lyhyesti yrityksestä esim. tyyliin:
+
+PGP Putki Oy on yritys. Teemme vahvalla ammattitaidolla kaikki LVI-alan työt uusiin sekä vanhempiin kohteisiin. Annamme työstä tarjouksen ja takuun, sillä haluamme olla LVI-alan ammattilaisvalintasi myös jatkossa. Työmme perusta on asiakastyytyväisyys.
+
+Palvelemme asiakkaitamme etupäässä pääkaupunkiseudulla, mutta operoimme koko Suomen alueella.
+
+- Palvelut
+	- avataan laajemmin tarjolla olevia palveluja
+		- Kokonaisurakoinnit
+		- Putkiremontit
+		- Lämpöverkkoremontit
+		- Käyttövesiremontit
+		- Viemäriremontit
+		- jne
+
+- Caseja/Referenssejä lisää/uudempia.
+	- onko kuvia näistä
+	- voitaisiinko avata hieman syvällisemmin näitä?
+
+- yhteystietosivu 
+	- henkilötietoja? Henkilökuvat jms?
+	- Contact form -> Tällä lomakkeella voi lähettää tarjouspyynnöt, kysymykset ja palautteet.
+	- Google map 
+
+- Optiona 'ajankohtaista/lyhyesti' -palsta, jossa esim 3-4 viimeisintä uutista
+
+Sisällöt tulisivat teiltä - voin toki auttaa kirjoittamisessa tarvittaessa.
+
+Valokuvaaja löytyy myös, jos halutaan käyttää valokuvia sivustolla. Hänen kanssaan täytyy sopia hinnasta sitten erikseen.
+
+Tällaista pakettia tarjoaisin hintaan 1400€+alv24.
